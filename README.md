@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="circle_art" src="https://github.com/user-attachments/assets/8f1f4066-3a21-4589-bda3-d9306675b8c6" />
+<img width="1920" height="1080" alt="circle_art" src="https://github.com/user-attachments/assets/9a9595d5-c6b6-4f31-b253-79601a207c23" />
+
 
 # 🌿 First Generative Art Experiment
 
