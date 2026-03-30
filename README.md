@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="circle_art" src="https://github.com/user-attachments/assets/d91da633-5547-46fe-af04-e0cb5a241e67" />
 
-# 🌿 Generative Study 001 — Accumulation
+# 🌿 Generative Study 001 — Circles
 
 This project started as a minimal experiment in drawing with code.
 
