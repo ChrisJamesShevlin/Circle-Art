@@ -123,19 +123,5 @@ It changed how I think about writing code:
 
 ---
 
-## 🔭 Next Step
-
-Right now, the system is unstructured — entirely driven by input.
-
-Next, I want to introduce mathematical structure into the loop:
-
-* replacing constant sizes with Fibonacci progression
-* controlling spacing instead of relying on the mouse
-* moving from free motion to defined patterns (spirals, growth systems)
-
-The goal is to keep the simplicity, but make the behaviour intentional.
-
----
-
 *Study 001 — starting from the smallest possible rule.*
 
